@@ -1,0 +1,19 @@
+.display-balance {
+  font-weight: bold;
+  padding: 5px;
+  background-color: #ffc8dd;
+  border-radius: 10px;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffeaff;
+}
+
+h4 {
+  margin-top: 30px;
+  padding: 5px;
+}

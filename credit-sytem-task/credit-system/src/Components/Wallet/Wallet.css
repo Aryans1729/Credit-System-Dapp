@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Wallet-Container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 20px;
+  gap: 10px;
+}
+
+.wallet-details {
+  font-weight: bold;
+  padding: 5px;
+  background-color: #ffc8dd;
+  border-radius: 10px;
+}
+
+.wallet-submit {
+  background-color: #80ed99;
+  border-radius: 10px;
+  padding: 10px;
+}
